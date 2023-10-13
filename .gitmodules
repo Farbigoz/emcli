@@ -1,0 +1,3 @@
+[submodule "standalone/xmodem"]
+	path = standalone/xmodem
+	url = https://github.com/Thuffir/xmodem.git
